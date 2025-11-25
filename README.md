@@ -75,13 +75,11 @@ Performance results of the M2Restore framework trained under the all-in-one sett
 
 If you use our work, please consider citing:
 ~~~
-@misc{wang2025m2restore,
-      title={M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration}, 
-      author={Yongzhen Wang and Yongjun Li and Zhuoran Zheng and Xiao-Ping Zhang and Mingqiang Wei},
-      year={2025},
-      eprint={2506.07814},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{wang2025m2restore,
+  title={M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration},
+  author={Wang, Yongzhen and Li, Yongjun and Zheng, Zhuoran and Zhang, Xiao-Ping and Wei, Mingqiang},
+  journal={arXiv preprint arXiv:2506.07814},
+  year={2025}
 }
 ~~~
 
