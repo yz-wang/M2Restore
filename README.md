@@ -62,11 +62,11 @@ Performance results of the M2Restore framework trained under the all-in-one sett
 
 <details>
 <summary><strong>Three Distinct Degradations</strong> (click to expand) </summary>
-<img src = "figs/aio_3.PNG"> 
+<img src = "figs/aio_3.png"> 
 </details>
 <details>
 <summary><strong>Eleven Distinct Degradations</strong> (click to expand) </summary>
-<img src = "figs/aio_11.PNG"> 
+<img src = "figs/aio_11.png"> 
 </details>
 
 
