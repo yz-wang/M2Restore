@@ -2,6 +2,7 @@
 Authors: Yongzhen Wang, Yongjun Li, Zhuoran Zheng, Xiao-Ping Zhang and Mingqiang Wei
 
 [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2506.07814)
+[![paper](https://img.shields.io/badge/TIP-Paper-<COLOR>.svg)](https://ieeexplore.ieee.org/document/11284756)
 
 *__Notice__: This repo is still __working in progress__.*
 
@@ -75,12 +76,16 @@ Performance results of the M2Restore framework trained under the all-in-one sett
 
 If you use our work, please consider citing:
 ~~~
-@article{wang2025m2restore,
-  title={M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration},
+@ARTICLE{wang2025m2restore,
   author={Wang, Yongzhen and Li, Yongjun and Zheng, Zhuoran and Zhang, Xiao-Ping and Wei, Mingqiang},
-  journal={arXiv preprint arXiv:2506.07814},
-  year={2025}
-}
+  journal={IEEE Transactions on Image Processing}, 
+  title={M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-15},
+  keywords={M2Restore;Mixture-of-Experts;Mamba-CNN;all-in-one;CLIP-guided},
+  doi={10.1109/TIP.2025.3638662}}
 ~~~
 
 
