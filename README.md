@@ -2,7 +2,7 @@
 Authors: Yongzhen Wang, Yongjun Li, Zhuoran Zheng, Xiao-Ping Zhang and Mingqiang Wei
 
 [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2506.07814)
-[![paper](https://img.shields.io/badge/TIP-Paper-<COLOR>.svg)](https://ieeexplore.ieee.org/document/11284756)
+[![paper](https://img.shields.io/badge/TIP-Paper-orange)](https://ieeexplore.ieee.org/document/11284756)
 
 *__Notice__: This repo is still __working in progress__.*
 
