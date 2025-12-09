@@ -84,7 +84,6 @@ If you use our work, please consider citing:
   volume={},
   number={},
   pages={1-15},
-  keywords={M2Restore;Mixture-of-Experts;Mamba-CNN;all-in-one;CLIP-guided},
   doi={10.1109/TIP.2025.3638662}}
 ~~~
 
